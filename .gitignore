@@ -1,0 +1,15 @@
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+
+.venv/
+
+# IDE
+.project
+.pydevproject
+.idea/
+*.iml
+
+# Misc
+.DS_Store
